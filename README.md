@@ -40,12 +40,7 @@ Explore the available fields and identify important information related to:
 Create appropriate DAX measures or calculated columns wherever required for the analysis.
 
 
-
-
-
 **5. Perform Exploratory Analysis**
-
-
 
 **6. Develop an Interactive Dashboard**
 
@@ -53,9 +48,8 @@ Create appropriate DAX measures or calculated columns wherever required for the 
 **7. Identify Insights and Recommendations**
 
 
-
-
 **Output**
+<img width="1685" height="925" alt="image" src="https://github.com/user-attachments/assets/6723a395-fc56-4a2f-ac3c-030caf02f6fc" />
 
 **Result**
 Thus, the healthcare patient tracking data was successfully analyzed using Power BI, and an interactive dashboard was developed to identify important patient patterns, cases requiring attention, and operational insights for healthcare management.
